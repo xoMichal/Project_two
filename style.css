@@ -283,8 +283,8 @@ transition-duration: 1s;
 .dot
 {
     position: absolute;
-    top:-2%;
-    left:-2%;
+    top:-9px;
+    left:-9px;
     width: 22px;
     height: 22px;
 }
