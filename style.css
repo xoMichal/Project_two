@@ -11,8 +11,8 @@ body
 #container
 {
     max-width: 576px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
 }
 #menu
 {
@@ -343,14 +343,14 @@ transition-duration: 1s;
     color: #4267B2
 } */
 
-.back_scrol
+/* .back_scrol
 {
     position: fixed;
     bottom: 0;
     right: 0;
     font-size: 10px;
     list-style-type: none; 
-}
+} */
 /* .back_scrol:hover
 {
     transform: scale(1.15); 
