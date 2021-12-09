@@ -206,6 +206,13 @@ h3
 }
 .inner
 {
+    width: 80%;
+    justify-content: flex-start;
+    text-align: left;
+}
+.inner2
+{
+    width: 80%;
     justify-content: flex-start;
     text-align: left;
 }
