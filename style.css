@@ -162,9 +162,7 @@ h2
 
 /* #specialists>.specialist:nth-of-type(odd)
 {     
-
       background-color: #fff;
-
 }
 #specialists>.specialist:nth-of-type(even)
 {    
@@ -443,7 +441,7 @@ span
     flex-wrap: wrap;
     flex-direction: row;  
     justify-content: center;
-    height: auto;
+    height: 1000px;
     padding-bottom: 10%;
 }
 .tile
@@ -641,6 +639,15 @@ span
     display: flex;
     justify-content: flex-end;
     
+}
+.tiles
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;  
+    justify-content: center;
+    height: auto;
+    padding-bottom: 10%;
 }
 .tile
 {
