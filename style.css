@@ -6,6 +6,9 @@
 body
 {
     font-family: 'Roboto', sans-serif;  /* type of the font*/
+    width: 90%;
+    margin: 0;
+    display: flex;
 }
 
 #container
@@ -308,7 +311,7 @@ transition-duration: 1s;
 
 #left
 {
-    width: 100%;
+    width: 95%;
     font-weight: 700;
     font-size:18px ;
    margin-left: 14px;
